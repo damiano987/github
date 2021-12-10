@@ -7,6 +7,8 @@ using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 using Photon.Realtime;
 
+//
+
 public class GameCtrl : MonoBehaviourPunCallbacks
 {
     public TMP_Text roomName;
